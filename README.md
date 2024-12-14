@@ -1,3 +1,4 @@
-# UIC CS483 Final Project - Melodify
+# UIC CS483 (Big Data Mining) Final Project - Melodify
 
-Song Similarity through Multi Modal Embedding
+Embedding for Music to enhance recommender systems.
+
